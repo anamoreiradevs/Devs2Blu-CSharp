@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "11HXleOpGOStv+yMQU1V041IsB1yvSjsKFxWB5EeZ/qnhKSP28ay0EZX2LkDBuuTdk2eFBrufsxfFb3vV7wHsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Lydia\\Devs2Blu.CSharp\\Aula6\\SLNJogoDo21\\src\\Aula6.Jogo21\\Aula6.Jogo21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Lydia\\.nuget\\packages\\bunifu.dataviz.winforms\\2.2.1\\bunifu.dataviz.winforms.2.2.1.nupkg.sha512",
+    "C:\\Users\\Ana Lydia\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Bunifu.Dataviz.WinForms 2.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Bunifu.Dataviz.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
