@@ -1,0 +1,8 @@
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\bin\Debug\Devs2BluProjetosAula.Classes.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\bin\Debug\Devs2BluProjetosAula.Classes.pdb
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\obj\Debug\Devs2BluProjetosAula.Classes.csproj.AssemblyReference.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\obj\Debug\Devs2BluProjetosAula.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\obj\Debug\Devs2BluProjetosAula.Classes.csproj.CopyComplete
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\obj\Debug\Devs2BluProjetosAula.Classes.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP1\SlnOOPIntroducao\src\Devs2BluProjetosAula.Classes\obj\Debug\Devs2BluProjetosAula.Classes.pdb
