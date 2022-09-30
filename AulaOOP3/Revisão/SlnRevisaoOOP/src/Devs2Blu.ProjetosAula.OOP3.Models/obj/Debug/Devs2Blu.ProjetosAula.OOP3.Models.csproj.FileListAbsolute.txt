@@ -1,0 +1,6 @@
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Models\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.csproj.AssemblyReference.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Models\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Models.pdb
