@@ -1,0 +1,16 @@
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.AulaOOP2.exe.config
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.AulaOOP2.exe
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.AulaOOP2.pdb
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.OOP2Classes.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Devs2Blu.ProjetosAula.OOP2Classes.pdb
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.AssemblyReference.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.Form1.resources
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.Properties.Resources.resources
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.GenerateResource.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.CoreCompileInputs.cache
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.csproj.CopyComplete
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.exe
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\obj\Debug\Devs2Blu.ProjetosAula.AulaOOP2.pdb
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP2\SlnAulaOPP2\src\Devs2Blu.ProjetosAula.AulaOOP2\bin\Debug\Guna.UI2.dll
