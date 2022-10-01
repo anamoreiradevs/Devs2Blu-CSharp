@@ -9,3 +9,4 @@ C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.
 C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.csproj.CopyComplete
 C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.exe
 C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\obj\Debug\Devs2Blu.ProjetosAula.OOP3.Main.pdb
+C:\Users\Ana Lydia\Devs2Blu.CSharp\AulaOOP3\Revisão\SlnRevisaoOOP\src\Devs2Blu.ProjetosAula.OOP3.Main\bin\Debug\Devs2Blu.ProjetosAula.OOP3.Models.dll.config
