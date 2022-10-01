@@ -77,10 +77,10 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
             Console.WriteLine("Informe o Nome do Fornecedor");
             fornecedor.Nome = Console.ReadLine();
 
-            Console.WriteLine("Informe o CNPJ do Medico");
+            Console.WriteLine("Informe o CNPJ do Fornecedor");
             fornecedor.CGCCPF = Console.ReadLine();
 
-            Console.WriteLine("Informe o Tipo do Medico");
+            Console.WriteLine("Informe o Tipo do Fornecedor");
             fornecedor.TipoFornecedor = Console.ReadLine();
 
             Random rd = new Random();
