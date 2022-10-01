@@ -17,7 +17,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
 
         }
 
-        public void ListaPaciente()
+        public void ListarMedico()
         {
             Console.Clear();
 
@@ -73,7 +73,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
         }
         public void Listar()
         {
-            ListaPaciente();
+            ListarMedico();
         }
         public void Cadastrar()
         {

@@ -24,7 +24,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
             foreach (var recepcionista in Program.Mock.ListaRecepcionista)
             {
                 Console.WriteLine("-----------------------------------------");
-                Console.WriteLine($"Medico: {recepcionista.IDRecepcionista}");
+                Console.WriteLine($"Recepcionista: {recepcionista.IDRecepcionista}");
                 Console.WriteLine($"Nome: {recepcionista.Nome}");
                 Console.WriteLine($"Setor: {recepcionista.Setor}");
                 Console.WriteLine("-----------------------------------------\n");

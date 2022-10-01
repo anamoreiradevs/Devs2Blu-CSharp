@@ -22,7 +22,7 @@ namespace Devs2Blu.ProjetosAula.OOP3.Main.Cadastros
             foreach (var fornecedor in Program.Mock.ListaFornecedor)
             {
                 Console.WriteLine("-----------------------------------------");
-                Console.WriteLine($"Medico: {fornecedor.IDFornecedor}");
+                Console.WriteLine($"Fornecedor: {fornecedor.IDFornecedor}");
                 Console.WriteLine($"Nome: {fornecedor.Nome}");
                 Console.WriteLine($"Setor: {fornecedor.TipoFornecedor}");
                 Console.WriteLine("-----------------------------------------\n");
